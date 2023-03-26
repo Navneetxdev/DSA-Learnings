@@ -2,6 +2,7 @@
 Even Odd Sum -GFG 
 Day- 26 March
 Algo - iterated array then added sum of even and add
+
 */
 
 #include <bits/stdc++.h>
