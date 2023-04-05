@@ -1,5 +1,5 @@
 ## 👨‍🎓 **Introduction**
-Hi there! My name is Navneet Lakhera, and I'm currently a second year student pursuing a Bachelor of computer applications at College of engineering Roorkee (UETR). I'm excited to be learning new things and building my skills as a Software Developer through my coursework and personal projects.
+Hi there! My name is Navneet, and I'm currently a second year student pursuing a Bachelor of computer applications at College of engineering Roorkee (UETR). I'm excited to be learning new things and building my skills as a Software Developer through my coursework and personal projects.
 
 ## :books: **Daily DSA Practice**
 
